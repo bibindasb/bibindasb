@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/bibin-dasb)
-- Email: [Your Email Address](bibindasappu1@gmail.com)
+- LinkedIn: [Bibindasb](www.linkedin.com/in/bibin-dasb)
+- Email: [bibindasappu1@gmail.com](bibindasappu1@gmail.com)
 
 
 <!-- BLOG-POST-LIST:START -->
