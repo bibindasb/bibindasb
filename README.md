@@ -12,17 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
-- Email: [Your Email Address](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/bibin-dasb)
+-
+- Email: [Your Email Address](bibindasappu1@gmail.com)
 
-## 🌟 Featured Projects
-
-- [Project 1 Name](https://github.com/bibindasb/project1) - Brief description of project 1
-- [Project 2 Name](https://github.com/bibindasb/project2) - Brief description of project 2
-- [Project 3 Name](https://github.com/bibindasb/project3) - Brief description of project 3
-
-## 📚 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
