@@ -68,9 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  ## 🏆 GitHub Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibindasb&show_icons=true&theme=radical)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bibindasb&theme=radical&row=1&column=6"/>
 </p>
 
 ---
